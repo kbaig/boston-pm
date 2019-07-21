@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Netlify is a hosting provider for static sites.
+[Netlify](https://netlify.com) is a hosting provider for static sites.
 
 ## Interacting with hosting providers is frustrating
 
