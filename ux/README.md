@@ -10,7 +10,7 @@ Hosting providers invoke thoughts of cryptic, unfriendly, and aesthetically out-
 
 ## Netlify competes on user experience
 
-Most providers treat treat the market as a crowded one where pricing is the only frontier left to compete on. Netlify is disrupting this space by instead focusing on experience, to the extent that most of its new business is generated through developers raving about how easy it is to get up to speed with the system.
+Most providers treat the market as a crowded one where pricing is the only frontier left to compete on. Netlify is disrupting this space by instead focusing on experience, to the extent that most of its new business is generated through developers raving about how easy it is to get up to speed with the system.
 
 ## Interfaces are uncluttered and approachable
 
@@ -18,6 +18,6 @@ As early as the [landing page](./landing-page.png), the site begins to convey ho
 
 Once signed up and logged in, users can quickly [deploy their first project using a multi-page form](./deploy-new-project.png) that stores state when navigating back and forth on pages, gives definitions of more technical terms on hover of certain help icons, and even prepopulates build commands by scanning through the config files in the project, delighting the user in the process.
 
-Once the site has been published, it can be managed through [the dashboard](./dashboard.png). All settings are organized by concern in an intuitive fashion, with the most major cocnerns (eg recent contact form submissions) having greater visible detail than others.
+Once the site has been published, it can be managed through [the dashboard](./dashboard.png). All settings are organized by concern in an intuitive fashion, with the most major concerns (eg recent contact form submissions) having greater visible detail than others.
 
 Overall, pages are broken up by concern in such a fashion that no single one is overwhelming, while colocating settings according to what the user would expect. Using the site becomes a joy, enabling productivity and desire to return.
