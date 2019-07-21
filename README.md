@@ -2,8 +2,10 @@ This repo contains writeups for the application of a Product Manager role at the
 
 # Prompts
 ## Please describe why you are interested in this role
-- passion for execution of tech strategy, from both business value and technical perspectives - creating seamless experiences - adopting a beginner's mindset - accessibility as a first-class concern - working with technical and non-technical groups
-- know the constituents well - first experience living in the US - went to college here - want to give back
+
+While studying business at Boston University, I spent a lot of my time working with tech startups. I learned that I'm attracted to the entrepreneurship space primarily because, in order to succeed, one needs to deliver new value to their customer base while balancing the underlying technical constraints. If they can't excel at both of these dimensions, they fail. I'm interested in this role because it has similar demands in terms of execution of technology strategy. I believe I'd enjoy the adopting a beginner's mindset to collaboratively create seamless user experiences, especially with accessibility as a first-class concern.
+
+I'd also appreciate the opportunity to give back to Boston, the first US city I called home, by serving its constituents using the skills I've dedicated the past few years to acquiring.
 
 ## Please describe a great user experience you had recently. Provide a link, if applicable
 [Writeup](./ux)
