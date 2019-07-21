@@ -18,7 +18,7 @@ As early as the [landing page](./landing-page.png), the site begins to convey ho
 
 <figure>
   <img src='./landing-page.png' alt='landing page'>
-  <figcaption>Landing page</figcaption>
+  <figcaption style='text-align: center; opacity: 0.95;'>Landing page</figcaption>
 </figure>
 
 Once signed up and logged in, users can quickly [deploy their first project using a multi-page form](./deploy-new-project.png) that stores state when navigating back and forth on pages, gives definitions of more technical terms on hover of certain help icons, and even prepopulates build commands by scanning through the config files in the project, delighting the user in the process.
