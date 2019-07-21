@@ -1,6 +1,4 @@
-# Netlify - Running past the competition by emphasizing user experience
-
-<hr />
+# Netlify - standing out by emphasizing user experience
 
 ## What is it?
 
