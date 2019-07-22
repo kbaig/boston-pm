@@ -10,7 +10,7 @@ Hosting providers invoke thoughts of cryptic, unfriendly, and aesthetically out-
 
 ## Netlify competes on user experience
 
-Most providers treat the market as a crowded one where pricing is the only frontier left to compete on. Netlify is disrupting this space by instead focusing on experience, to the extent that most of its new business is generated through developers raving about how easy it is to get started.
+Most providers treat the market as a crowded one where pricing is the only frontier left to compete on. Netlify is disrupting this space by instead focusing on experience, to the extent that its new business is largely generated through developers raving about how easy it is to get started.
 
 ## Interfaces are uncluttered and approachable
 
