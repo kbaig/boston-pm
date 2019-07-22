@@ -10,7 +10,7 @@ I would then work with designers to make the established improvements, additiona
 Upon completion of the design, it is up to developers to create a working front end for the application. Once that has been implemented, I would make sure to review using the same beginner's mindset approach to ensure the new experience is seemless, and perhaps even delightful. If all tests pass, the front end can be fully integrated with the overarching system, leading to project completion.
 
 # Challenges
-Most challenges are likely going to be based on communication. While the main goal is to improve the user experience, we still have to balance our efforts with keeping the data-gathering requirements in check. Checking in often enough with the department that issues licenses to ensure they are on the same page while keeping in mind that they are potentially nontechnical will go a long way to ensuring the end-product meets everyone's needs.
+Most challenges are likely going to be based on communication. While the main goal is to improve the user experience, we still have to balance our efforts with keeping the data-gathering requirements in check. Checking in with the department that issues licenses often enough to ensure they are on the same page while keeping in mind that they are potentially nontechnical will go a long way to ensuring the end-product meets everyone's needs.
 
 Similarly, development is a resource that needs to be balanced against all of the potential improvements that can be made. Keeping engineering in the loop so that each improvement's cost is evaluated will ensure that the most impactful improvements are prioritized.
 
