@@ -1,13 +1,16 @@
 # Approach
-There are two types of users that this application needs to cater to: people registering their first dog(s) and people returning to renew a license or register a new dog. While the former would be totally new to the application, the latter will still not be exposed to it frequently enought to develop a sense of familiarity. Therefore, adopting a beginner's mindset is going to be very important when looking for areas of improvement. If I was too familiar with the system to be improved, I would look for someone else who was not as familiar, and guide them through a common use case while observing their reactions.
+There are two types of users that this application needs to cater to: people registering their first dog(s) and people returning to renew a license or register a new dog. While the former would be totally new to the application, the latter will still not be exposed to it frequently enought to develop a sense of familiarity. Therefore, adopting a beginner's mindset is going to be very important when looking for areas for improvement. If I was too familiar with the system in question, I would look for someone else who was not as familiar and guide them through a common use case while observing their reactions.
 
-In this particular case, I've never owned a dog and therefore did not have any familiarity with the application. I found that even though I did not have any confusions when trying to fill out the application as far as information requested, I was left quite frustrated by the implementation of the form itself. Please refer to the appendix for a comprehensive list of areas of improvement.
+In this particular case, I've never owned a dog and therefore did not have any familiarity with the application. I found that even though I did not have any confusions when trying to fill out the application as far as information requested, I was left quite frustrated by the implementation of the form itself. The appendix includes a comprehensive list of areas for improvement.
 
 After gaining user feedback, I would gather requirements from key stakeholders, in this case likely the department that issues dog licenses. I would first look for any documents written upon completion of the existing application, summarize my findings, and go to said stakeholders to clarify and update these needs.
 
-Lastly, I would work with designers to make the established improvements, additionally addressing any new requirements that arose during the check in with stakeholders. Throughout this design process, I would loop in developers to ensure technical feasibility.
+I would then work with designers to make the established improvements, additionally addressing any new requirements that arose during the check in with stakeholders. Throughout this design process, I would loop in developers to ensure technical feasibility.
 
-# Foreseen challenges
+Upon completion of the deign, it is up to developers to create a working front end for the application. Once that has been implemented, I would make sure to review using the same beginner's mindset approach to ensure the new experience is seemless, and perhaps even delightful. If all tests pass, the front end can be fully integrated with the overarching system, leading to project completion.
+
+# Challenges
+
 
 # Appendix
 ## Assumptions
