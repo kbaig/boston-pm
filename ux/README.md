@@ -20,7 +20,6 @@ After signing up and logging in, users can quickly [deploy their first project u
 
 Once the site has been published, it can be managed through [the dashboard](./dashboard.png). All settings are organized by concern in an intuitive fashion, with the most major concerns (e.g. recent contact form submissions) having greater detail than others in their unexpanded state.
 
-
 ## Lessons
 It's clear that the Netlify team adhered to a few key principles when designing the experience:
 - Break pages and page content by concern so that users can discover their desired setting easily without feeling overwhelmed
