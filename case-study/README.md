@@ -49,4 +49,4 @@ Lastly, it is always important to recognize that it can be difficult for teams t
   * Missing rabies certificates does not lead to a validation error
   * "Click here to edit" is not accessible hyperlink text
   * Phone Number and Alternative Phone Number fields are labeled Home and Cell on the Review page - this is an inconsistency
-  * (opportunity for delight) Fields could be edited inline, by rendering the corresponding form while in edit mode
+  * (opportunity for delight) Fields could be edited inline by rendering the corresponding form while in edit mode
