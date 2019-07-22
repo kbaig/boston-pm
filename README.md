@@ -10,5 +10,5 @@ I'd also appreciate the opportunity to give back to Boston, the first US city I 
 ## Please describe a great user experience you had recently. Provide a link, if applicable
 [Writeup](./ux)
 
-## Case study
+## In the City of Boston, if you have a dog that's older than six months you must get them licensed. The [online application](https://www.boston.gov/departments/animal-care-and-control/how-license-your-dog/) is on our product roadmap for improvement. How would you think about enhancing this online experience? What would your process look like? What challenges do you foresee? How would you address them? Our expectation is that this is not an extensive plan, we're more interested to hear in brief your approach to the project.
 [Writeup](./case-study)

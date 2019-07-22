@@ -1,23 +1,20 @@
-# Prompt
-In the City of Boston, if you have a dog that's older than six months you must get them licensed. The [online application](https://www.boston.gov/departments/animal-care-and-control/how-license-your-dog/) is on our product roadmap for improvement. How would you think about enhancing this online experience? What would your process look like? What challenges do you foresee? How would you address them? Our expectation is that this is not an extensive plan, we're more interested to hear in brief your approach to the project.
+# Approach
+There are two types of users that this application needs to cater to: people registering their first dog(s) and people returning to renew a license or register a new dog. While the former would be totally new to the application, the latter will still not be exposed to it frequently enought to develop a sense of familiarity. Therefore, adopting a beginner's mindset is going to be very important when looking for areas of improvement. If I was too familiar with the system to be improved, I would look for someone else who was not as familiar, and guide them through a common use case while observing their reactions.
 
+In this particular case, I've never owned a dog and therefore did not have any familiarity with the application. I found that even though I did not have any confusions when trying to fill out the application as far as information requested, I was left quite frustrated by the implementation of the form itself. Please refer to the appendix for a comprehensive list of areas of improvement.
 
+After gaining user feedback, I would gather requirements from key stakeholders, in this case likely the department that issues dog licenses. I would first look for any documents written upon completion of the existing application, summarize my findings, and go to said stakeholders to clarify and update these needs.
 
-
-# How to think about enhancing the experience
-
-# What would the process of enhancing look like?
+Lastly, I would work with designers to make the established improvements, additionally addressing any new requirements that arose during the check in with stakeholders. Throughout this design process, I would loop in developers to ensure technical feasibility.
 
 # Foreseen challenges
-
-# How to address challenges
 
 # Appendix
 ## Assumptions
 * Each licensed dog has its own license number
-* Rabies certificates are required
+* Uploading rabies certificate copies is required
 
-## Areas for improvement by page
+## Areas for improvement by form page
 * ### Global
   * Form state could be stored locally in case user accidentally navigates away or wants to finish submission later
   * Navigation between form pages could be improved by enabling navigation directly to desired page rather than only by using prev/next buttons
@@ -44,5 +41,5 @@ In the City of Boston, if you have a dog that's older than six months you must g
 * ### Review
   * Missing rabies certificates does not lead to a validation error
   * "Click here to edit" is not accessible hyperlink text
-  * Phone Number and Alternative Phone Number fields are labeled Home and Cell on the Review page - this is inconsistency
+  * Phone Number and Alternative Phone Number fields are labeled Home and Cell on the Review page - this is an inconsistency
   * (opportunity for delight) Fields could be edited inline, by rendering the corresponding form while in edit mode
